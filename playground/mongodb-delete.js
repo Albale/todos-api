@@ -12,7 +12,7 @@ MongoClient.connect('mongodb://localhost:27017/Todos', (err, db) => {
     // });
   //deleteOne
     // db.collection('todos').deleteOne({text:"Eat lunch"}).then((results) => {
-    //   console.log(results);
+    //   console.log(resul\ts);
     // })
   //fineOneAndDelete
     // db.collection('todos').findOneAndDelete({text:"Eat lunch"}).then((results) => {
